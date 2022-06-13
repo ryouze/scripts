@@ -1,0 +1,15 @@
+# docs: https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+# ignore todo.txt anywhere
+todo.txt
+
+# ignore python cache anywhere
+**/__pycache__/
+
+# ignore .log anywhere
+*.log
+
+# ignore .bak anywhere
+*.bak
+
+# ignore libreoffice backup
+.~lock.*

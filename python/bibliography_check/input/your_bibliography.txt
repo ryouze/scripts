@@ -1,0 +1,4 @@
+# Paste your entire bibliography into this file, with each article/journal/paper/book as a newline.
+# Do not worry about trailing spaces or empty lines, they will be removed automatically.
+person. 2022. title, Frontier 11
+person. 2021. title, Test 20

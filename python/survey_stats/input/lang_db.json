@@ -1,0 +1,56 @@
+{
+    "english_answers": {
+        "150k_to_500k": "150,000 - 500,000 residents",
+        "15k_to_75k": "15,000 - 75,000 residents",
+        "75k_to_150k": "75,000 - 150,000 residents",
+        "often_daily": "Daily",
+        "gender_female": "Female",
+        "gender_male": "Male",
+        "gender_nonbinary": "Non-binary",
+        "gender_notsay": "Prefer not to say",
+        "gender_other": "Other",
+        "less_than_15k": "Less than 15,000 residents",
+        "more_than_500k": "More than 500,000 residents",
+        "no": "No",
+        "uni_other": "Other (please specify)",
+        "yes": "Yes"
+    },
+    "english_columns": {
+        "age_begin_eng": "At what age did you begin to learn English? (e.g., 7)",
+        "birth_year": "When were you born? (e.g., 1997)",
+        "how_big_city": "How big was the city you grew up in? (Approximately)",
+        "how_often": "How often do you use English?",
+        "is_l1": "Is Polish your first language (L1)?",
+        "is_l2": "Is English your second language (L2)?",
+        "rate_competence": "Rate the *competence* of the person in the image based on your first impression.",
+        "what_gender": "What is your gender?",
+        "which_uni_year": "Which year of university are you in?"
+    },
+    "polish_answers": {
+        "150k_to_500k": "150 tyś. - 500 tyś. mieszkańców",
+        "15k_to_75k": "15 tyś. - 75 tyś. mieszkańców",
+        "75k_to_150k": "75 tyś. - 150 tyś. mieszkańców",
+        "often_daily": "Codziennie",
+        "gender_female": "Kobieta",
+        "gender_male": "Mężczyzna",
+        "gender_nonbinary": "Osoba niebinarna",
+        "gender_notsay": "Odmowa odpowiedzi",
+        "gender_other": "Inna",
+        "less_than_15k": "Mniej niż 15 tyś. mieszkańców",
+        "more_than_500k": "Ponad 500 tyś. mieszkańców",
+        "no": "Nie",
+        "uni_other": "Inny (proszę podać)",
+        "yes": "Tak"
+    },
+    "polish_columns": {
+        "age_begin_eng": "W jakim wieku rozpocząłeś/aś naukę j. angielskiego? (np. 7)",
+        "birth_year": "Kiedy się urodziłeś/aś? (np. 1997)",
+        "how_big_city": "Jak duże było miasto, w którym się wychowałeś/aś? (W przybliżeniu)",
+        "how_often": "Jak często używasz j. angielskiego?",
+        "is_l1": "Czy polski jest twoim pierwszym językiem (L1)?",
+        "is_l2": "Czy angielski jest twoim drugim językiem (L2)?",
+        "rate_competence": "Oceń *kompetencje* osoby na zdjęciu na podstawie swojego pierwszego wrażenia.",
+        "what_gender": "Jaka jest twoja płeć?",
+        "which_uni_year": "Na którym roku studiów jesteś?"
+    }
+}

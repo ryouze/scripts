@@ -1,0 +1,136 @@
+# Enter custom names for columns that contain survey's answers.
+#
+# The size must be the same, e.g., 60 questions in survey = 60 column names.
+# The order must be the same, e.g., 3rd question is "female_lawyer" in survey = 3rd column name is "female_lawyer".
+# Non-ASCII characters are allowed, e.g., "mężczyzna".
+#
+# Syntax: condition = profession name.
+# The job names specified after the equal sign are for visual purposes only and will be removed by the script.
+# If no equal sign is provided, a warning will appear but it will be processed anyway.
+# Lines with less than 4 characters are ignored (e.g., newlines).
+
+
+# Female congruent (typically female):
+
+
+Incongruent_for_Male = male_cashier
+Congruent_for_Female = female_cashier
+
+
+Incongruent_for_Male = male_dog_groomer
+Congruent_for_Female = female_dog_groomer
+
+
+Incongruent_for_Male = male_hairdresser
+Congruent_for_Female = female_hairdresser
+
+
+Incongruent_for_Male = male_janitor
+Congruent_for_Female = female_janitor
+
+
+Incongruent_for_Male = male_nurse
+Congruent_for_Female = female_nurse
+
+
+Incongruent_for_Male = male_waitress
+Congruent_for_Female = female_waitress
+
+
+# Male congruent (typically male):
+
+
+Congruent_for_Male = male_air_traffic_controller
+Incongruent_for_Female = female_air_traffic_controller
+
+
+Congruent_for_Male = male_baker
+Incongruent_for_Female = female_baker
+
+
+Congruent_for_Male = male_bartender
+Incongruent_for_Female = female_bartender
+
+
+Congruent_for_Male = male_car_mechanic
+Incongruent_for_Female = female_car_mechanic
+
+
+Congruent_for_Male = male_carpenter
+Incongruent_for_Female = female_carpenter
+
+
+Congruent_for_Male = male_coach
+Incongruent_for_Female = female_coach
+
+
+Congruent_for_Male = male_deliveryman
+Incongruent_for_Female = female_deliveryman
+
+
+Congruent_for_Male = male_doctor
+Incongruent_for_Female = female_doctor
+
+
+Congruent_for_Male = male_electrician
+Incongruent_for_Female = female_electrician
+
+
+Congruent_for_Male = male_engineer
+Incongruent_for_Female = female_engineer
+
+
+Congruent_for_Male = male_farmer
+Incongruent_for_Female = female_farmer
+
+
+Congruent_for_Male = male_firefighter
+Incongruent_for_Female = female_firefighter
+
+
+Congruent_for_Male = male_judge
+Incongruent_for_Female = female_judge
+
+
+Congruent_for_Male = male_lawyer
+Incongruent_for_Female = female_lawyer
+
+
+Congruent_for_Male = male_pilot
+Incongruent_for_Female = female_pilot
+
+
+Congruent_for_Male = male_plumber
+Incongruent_for_Female = female_plumber
+
+
+Congruent_for_Male = male_policeman
+Incongruent_for_Female = female_policeman
+
+
+Congruent_for_Male = male_programmer
+Incongruent_for_Female = female_programmer
+
+
+Congruent_for_Male = male_scientist
+Incongruent_for_Female = female_scientist
+
+
+Congruent_for_Male = male_security_guard
+Incongruent_for_Female = female_security_guard
+
+
+Congruent_for_Male = male_soldier
+Incongruent_for_Female = female_soldier
+
+
+Congruent_for_Male = male_train_driver
+Incongruent_for_Female = female_train_driver
+
+
+Congruent_for_Male = male_watchmaker
+Incongruent_for_Female = female_watchmaker
+
+
+Congruent_for_Male = male_welder
+Incongruent_for_Female = female_welder
