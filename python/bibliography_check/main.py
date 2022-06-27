@@ -7,7 +7,7 @@ import web
 
 def main():
     # purge log file
-    open("log.log", "w").close()
+    open("./log.log", "w").close()
     # setup logger
     logging.basicConfig(datefmt="%G-%m-%d %T",
                         format="%(asctime)s [%(levelname)s] %(module)s.py : %(funcName)s() - %(message)s",
