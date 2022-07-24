@@ -33,6 +33,6 @@ int main(void) {
     struct tm *tm_struct = localtime(&now);
     int hour = tm_struct -> tm_hour;
     int minute = tm_struct -> tm_min;
-    printf("%s、%s！いまは%02d:%02dです。\n", greet(hour), user(), hour, minute);
+    printf("%s、%s！今の時間は%02d:%02dです。\n", greet(hour), user(), hour, minute);
     return 0;
 }
